@@ -1,51 +1,38 @@
-<h1 align="center">👕 WearEdge – Modern Fashion E-Commerce</h1>
+# 👕 WearEdge - Modern Online Clothing Store
 
-<p align="center">
-  <b>WearEdge</b> is a responsive, fast, and modern clothing store web app for <b>Men, Women, and Kids</b> built with <b>React.js</b> and <b>Tailwind CSS</b>.
-  Search products instantly, browse collections, and shop with a clean, user-friendly interface.
-</p>
-
-<p align="center">
-  <a href="https://github.com/your-username/wearedge"><img src="https://img.shields.io/github/stars/your-username/wearedge?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/your-username/wearedge"><img src="https://img.shields.io/github/forks/your-username/wearedge?style=social" alt="GitHub forks"></a>
-</p>
+WearEdge is a **responsive and modern fashion e-commerce web app** built with **React** and **Tailwind CSS**.  
+It allows users to explore fashion collections, search for products, and shop for **Men, Women, and Kids** clothing with a smooth and minimal UI.
 
 ---
-🌐 Live Demo : cute-pastelito-f85fd0.netlify.app
+
+## 🚀 Features
+
+- 🖥 **Responsive Design** – Works perfectly on mobile, tablet, and desktop  
+- 🔍 **Live Search** – Search products by name, description, or category  
+- 🛒 **Shopping Cart** – Add, remove, and update cart items  
+- 🧑‍🤝‍🧑 **Categories** – Men, Women, Kids, and Collections pages  
+- ⚡ **Fast & Smooth UI** – Built with Tailwind CSS for speed and style  
+
 ---
-
-
-## ✨ Features
-
-✅ **Fully Responsive** – Works on mobile, tablet & desktop  
-✅ **Live Product Search** – Filter by name, description, or category  
-✅ **Category Pages** – Men, Women, Kids, and Collections  
-✅ **Shopping Cart** – Add, remove & update items in real-time  
-✅ **Smooth UI** – Built with Tailwind CSS for speed and elegance  
-
+Live view : https://cute-pastelito-f85fd0.netlify.app/
+---
 
 ## 🛠 Tech Stack
 
-- ⚛ **React.js** – Frontend Framework  
-- 🎨 **Tailwind CSS** – Styling  
-- 🛣 **React Router DOM** – Routing & Navigation  
-- 🗂 **Context API** – State management  
-- 📦 **Vite** – Fast development build tool  
+- **React.js** – Frontend library  
+- **Tailwind CSS** – Styling  
+- **React Router DOM** – Navigation  
+- **Context API** – State management for cart  
+- **JSON Data** – Demo product database  
 
 ---
 
-## 🚀 Installation & Setup
+## 📦 Installation
 
+1. **Clone the repository**
 ```bash
-# Clone repository
 git clone https://github.com/your-username/wearedge.git
 cd wearedge
 
-# Install dependencies
-npm install
 
-# Start development server
-npm run dev
-
-
-Follow me on link in : 
+follow me on link in : https://www.linkedin.com/in/feeroz-khan-js-react/
