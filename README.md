@@ -27,12 +27,5 @@ Live view : https://cute-pastelito-f85fd0.netlify.app/
 
 ---
 
-## 📦 Installation
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/your-username/wearedge.git
-cd wearedge
-
-
-follow me on link in : https://www.linkedin.com/in/feeroz-khan-js-react/
+follow me on linkin :https://www.linkedin.com/in/feeroz-khan-js-react/
